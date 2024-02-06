@@ -1,0 +1,22 @@
+{
+  "name": "gladwell",
+  "version": "1.0.0",
+  "description": "A string revisor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindmorris/gladwell.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "Kevin Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindmorris/gladwell/issues"
+  },
+  "homepage": "https://github.com/kevindmorris/gladwell#readme"
+}
